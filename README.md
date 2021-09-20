@@ -6,3 +6,4 @@
 - Juan Pablo Chavarria Chavarrio - Administrador de BD
 - Jaime Andres Baquero Garcia - Scrum Master
 - Nixon Stevent Baconigra - Product Owner and Developer
+- Andres Francisco Romero Bohada - Developer
